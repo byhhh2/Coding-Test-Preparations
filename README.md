@@ -1,5 +1,7 @@
 # Coding Test Preparations
 
+- <a href="https://github.com/byhhh2/Coding-Test-Preparations/blob/master/Challenges.md">go to challenges !</a>
+
 <br>
 
 ## 🥇 Solve the problems in Baekjoon with Python.

@@ -2,6 +2,9 @@
 
 - <a href="https://github.com/byhhh2/Coding-Test-Preparations/blob/master/Challenges.md">go to challenges !</a>
 
+- <a href="https://github.com/byhhh2/Coding-Test-Preparations/blob/master/Step-by-step.md">go to step by step !</a>
+
+<br>
 <br>
 
 ## 🥇 Solve the problems in Baekjoon with Python.

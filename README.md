@@ -111,3 +111,15 @@
 |    4949     | <a href="https://www.acmicpc.net/problem/4949">균형잡힌 세상</a> |  스택   | 실버  |        | <a href="https://github.com/byhhh2/Coding-Test-Preparations/blob/master/Python-BAEKJOON/4949.py">📄</a>  |
 |    1874     |   <a href="https://www.acmicpc.net/problem/1874">스택 수열</a>   |  스택   | 실버  |        | <a href="https://github.com/byhhh2/Coding-Test-Preparations/blob/master/Python-BAEKJOON/1874.py">📄</a>  |
 |    18258    |     <a href="https://www.acmicpc.net/problem/18258">큐2</a>      |   큐    | 실버  |        | <a href="https://github.com/byhhh2/Coding-Test-Preparations/blob/master/Python-BAEKJOON/18258.py">📄</a> |
+
+<br>
+
+### Week12 👊🏻
+
+- 백올
+
+| problem num |                                              title                                               | concept |  level   | review |                                                solved                                                 |
+| :---------: | :----------------------------------------------------------------------------------------------: | :-----: | :------: | :----: | :---------------------------------------------------------------------------------------------------: |
+|    2071     | <a href="http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1335&sca=2020">파스칼 삼각형</a> |  수학   | beginner |        | <a href="https://github.com/byhhh2/Coding-Test-Preparations/blob/master/Python-JUNGOL/2071.py">📄</a> |
+|    1707     | <a href="http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=980&sca=2020">달팽이 사각형</a>  |  수학   | beginner |        | <a href="https://github.com/byhhh2/Coding-Test-Preparations/blob/master/Python-JUNGOL/1707.py">📄</a> |
+|    1331     |  <a href="http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2073&sca=2020">문자 마름모</a>  |  수학   | beginner |        | <a href="https://github.com/byhhh2/Coding-Test-Preparations/blob/master/Python-JUNGOL/1331.py">📄</a> |

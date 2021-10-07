@@ -123,3 +123,12 @@
 |    2071     | <a href="http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=1335&sca=2020">파스칼 삼각형</a> |  수학   | beginner |        | <a href="https://github.com/byhhh2/Coding-Test-Preparations/blob/master/Python-JUNGOL/2071.py">📄</a> |
 |    1707     | <a href="http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=980&sca=2020">달팽이 사각형</a>  |  수학   | beginner |        | <a href="https://github.com/byhhh2/Coding-Test-Preparations/blob/master/Python-JUNGOL/1707.py">📄</a> |
 |    1331     |  <a href="http://jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=2073&sca=2020">문자 마름모</a>  |  수학   | beginner |        | <a href="https://github.com/byhhh2/Coding-Test-Preparations/blob/master/Python-JUNGOL/1331.py">📄</a> |
+
+<br>
+
+### Week13 👊🏻
+
+| problem num |                                title                                | concept | level |                                                  review                                                  |                                                  solved                                                  |
+| :---------: | :-----------------------------------------------------------------: | :-----: | :---: | :------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: |
+|    2164     |      <a href="https://www.acmicpc.net/problem/2164">카드2</a>       |   큐    | 실버  | <a href="https://github.com/byhhh2/Coding-Test-Preparations/blob/master/Review-BAEKJOON/2164.md">💬</a>  | <a href="https://github.com/byhhh2/Coding-Test-Preparations/blob/master/Python-BAEKJOON/2164.py">📄</a>  |
+|    11866    | <a href="https://www.acmicpc.net/problem/11866">요세푸스 문제 0</a> |   큐    | 실버  | <a href="https://github.com/byhhh2/Coding-Test-Preparations/blob/master/Review-BAEKJOON/11866.md">💬</a> | <a href="https://github.com/byhhh2/Coding-Test-Preparations/blob/master/Python-BAEKJOON/11866.py">📄</a> |

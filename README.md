@@ -132,3 +132,12 @@
 | :---------: | :-----------------------------------------------------------------: | :-----: | :---: | :------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: |
 |    2164     |      <a href="https://www.acmicpc.net/problem/2164">카드2</a>       |   큐    | 실버  | <a href="https://github.com/byhhh2/Coding-Test-Preparations/blob/master/Review-BAEKJOON/2164.md">💬</a>  | <a href="https://github.com/byhhh2/Coding-Test-Preparations/blob/master/Python-BAEKJOON/2164.py">📄</a>  |
 |    11866    | <a href="https://www.acmicpc.net/problem/11866">요세푸스 문제 0</a> |   큐    | 실버  | <a href="https://github.com/byhhh2/Coding-Test-Preparations/blob/master/Review-BAEKJOON/11866.md">💬</a> | <a href="https://github.com/byhhh2/Coding-Test-Preparations/blob/master/Python-BAEKJOON/11866.py">📄</a> |
+
+<br>
+
+### Week14 👊🏻
+
+| problem num |                            title                             | concept | level  |                                                  review                                                  |                                                  solved                                                  |
+| :---------: | :----------------------------------------------------------: | :-----: | :----: | :------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: |
+|    11047    |  <a href="https://www.acmicpc.net/problem/11047">동전 0</a>  | 그리디  |  실버  | <a href="https://github.com/byhhh2/Coding-Test-Preparations/blob/master/Review-BAEKJOON/11047.md">💬</a> | <a href="https://github.com/byhhh2/Coding-Test-Preparations/blob/master/Python-BAEKJOON/11047.py">📄</a> |
+|    2839     | <a href="https://www.acmicpc.net/problem/2839">설탕 배달</a> | 그리디  | 브론즈 | <a href="https://github.com/byhhh2/Coding-Test-Preparations/blob/master/Review-BAEKJOON/2839.md">💬</a>  | <a href="https://github.com/byhhh2/Coding-Test-Preparations/blob/master/Python-BAEKJOON/2839.py">📄</a>  |

@@ -6,41 +6,27 @@ def w(a, b, c):
 
     if a <= 0 or b <= 0 or c <= 0:
         return 1
+    if a > 20 or b > 20 or c > 20:
+        return w(20, 20, 20)
 
     if str(a) + ',' + str(b) + ',' + str(c) in dic:
         return dic[str(a) + ',' + str(b) + ',' + str(c)]
 
-    if a < b and b < c:
-        return w(a, b, c-1) + w(a, b-1, c-1) - w(a, b-1, c)
+    if a < b < c:
+        dic[str(a) + ',' + str(b) + ',' + str(c)] = w(a, b, c-1) + w(a, b-1, c-1) - w(a, b-1, c)
+        return dic[str(a) + ',' + str(b) + ',' + str(c)]
     else:
-        return w(a-1, b, c) + w(a-1, b-1, c) + w(a-1, b, c-1) - w(a-1, b-1, c-1)
-
-
-def addArr(a, b, c):
-    global arr 
-    global dic
-    arr = []
-    dic = {}
-
-    for i in range(0, a + 1):
-        for j in range(0, b + 1):
-            for k in range(0, c + 1):
-                dic[str(i) + ',' + str(j) + ',' + str(k)] = w(i, j, k)
+        dic[str(a) + ',' + str(b) + ',' + str(c)] = w(a-1, b, c) + w(a-1, b-1, c) + w(a-1, b, c-1) - w(a-1, b-1, c-1)
+        return dic[str(a) + ',' + str(b) + ',' + str(c)]
 
 
 while True:
     A, B, C = map(int, sys.stdin.readline().split())
+    saveA = A
+    saveB = B
+    saveC = C
+
     if A == -1 and B == -1 and C == -1:
         break
-    elif A > 20 or B > 20 or C > 20:
-        A, B, C = 20, 20, 20
-    elif A <= 0 or B <= 0 or C <= 0:
-        print(1)
-        continue
 
-    addArr(A, B, C)
-    S = dic[str(A) + ',' + str(B) + ',' + str(C)]
-
-    print(f'w({A}, {B}, {C}) = {S}')
- 
-
+    print(f'w({saveA}, {saveB}, {saveC}) = {w(A, B, C)}')

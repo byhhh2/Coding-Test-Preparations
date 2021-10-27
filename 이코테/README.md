@@ -1,8 +1,8 @@
-# 이것이 코딩 테스트다
+# 🥑 이것이 코딩 테스트다 🥙
 
 <br>
 
-- DFS, BFS
+- <a href="https://github.com/byhhh2/Coding-Test-Preparations/blob/master/Algorithm/DFS%2C%20BFS.md">DFS, BFS</a>
 
 <br>
 
@@ -10,10 +10,10 @@
 
 <br>
 
-## DFS
+## <a href="https://github.com/byhhh2/Coding-Test-Preparations/blob/master/Algorithm/DFS%2C%20BFS.md">DFS</a>
 
 <br>
 
-|      title      | page | concept | level | review |      solved       |
-| :-------------: | :--: | :-----: | :---: | :----: | :---------------: |
-| 음료수 얼려먹기 | 149  |   DFS   |  2.5  |        | <a href="">📄</a> |
+|      title      | page | concept | level | review |                                                                                        solved                                                                                        |
+| :-------------: | :--: | :-----: | :---: | :----: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 음료수 얼려먹기 | 149  |   DFS   |  2.5  |        | <a href="https://github.com/byhhh2/Coding-Test-Preparations/blob/master/%EC%9D%B4%EC%BD%94%ED%85%8C/%EC%9D%8C%EB%A3%8C%EC%88%98%20%EC%96%BC%EB%A0%A4%20%EB%A8%B9%EA%B8%B0.py">📄</a> |

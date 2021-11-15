@@ -159,3 +159,21 @@
 | :---------: | :-----------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------: | :---: | :-----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
 |    1003     |  <a href="https://www.acmicpc.net/problem/1003">피보나치 함수</a>   |                                                                            DP                                                                            | 실버  | <a href="https://github.com/byhhh2/Coding-Test-Preparations/blob/master/Review-BAEKJOON/1003.md">💬</a> | <a href="https://github.com/byhhh2/Coding-Test-Preparations/blob/master/Python-BAEKJOON/1003.py">📄</a> |
 |    9184     | <a href="https://www.acmicpc.net/problem/9184">신나는 함수 실행</a> | <a href="https://github.com/byhhh2/Coding-Test-Preparations/blob/master/Algorithm/DP%20%EB%A9%94%EB%AA%A8%EC%9D%B4%EC%A0%9C%EC%9D%B4%EC%85%98.md">DP</a> | 실버  | <a href="https://github.com/byhhh2/Coding-Test-Preparations/blob/master/Review-BAEKJOON/9184.md">💬</a> | <a href="https://github.com/byhhh2/Coding-Test-Preparations/blob/master/Python-BAEKJOON/9184.py">📄</a> |
+
+<br>
+
+### Week17 👊🏻
+
+| problem num |                             title                              | concept | level |                                                  review                                                  |                                                 solved                                                  |
+| :---------: | :------------------------------------------------------------: | :-----: | :---: | :------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
+|    1904     |   <a href="https://www.acmicpc.net/problem/1904">01타일</a>    |   DP    | 실버  | <a href="https://github.com/byhhh2/Coding-Test-Preparations/blob/master/Review-BAEKJOON/1904..md">💬</a> | <a href="https://github.com/byhhh2/Coding-Test-Preparations/blob/master/Python-BAEKJOON/1904.py">📄</a> |
+|    9461     | <a href="https://www.acmicpc.net/problem/9461">파도반 수열</a> |   DP    | 실버  |                                                                                                          | <a href="https://github.com/byhhh2/Coding-Test-Preparations/blob/master/Python-BAEKJOON/9461.py">📄</a> |
+
+<br>
+
+### Week18 👊🏻
+
+| problem num |                            title                             | concept | level  |                                                  review                                                  |                                                  solved                                                  |
+| :---------: | :----------------------------------------------------------: | :-----: | :----: | :------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: |
+|    13458    | <a href="https://www.acmicpc.net/problem/13458">시험감독</a> |   DP    | 브론즈 | <a href="https://github.com/byhhh2/Coding-Test-Preparations/blob/master/Review-BAEKJOON/13458.md">💬</a> | <a href="https://github.com/byhhh2/Coding-Test-Preparations/blob/master/Python-BAEKJOON/13458.py">📄</a> |
+|    14501    |   <a href="https://www.acmicpc.net/problem/14501">퇴사</a>   |   DP    |  실버  | <a href="https://github.com/byhhh2/Coding-Test-Preparations/blob/master/Review-BAEKJOON/14501.md">💬</a> | <a href="https://github.com/byhhh2/Coding-Test-Preparations/blob/master/Python-BAEKJOON/14501.py">📄</a> |

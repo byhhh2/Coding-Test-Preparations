@@ -23,3 +23,5 @@ let b1 = ['aya', 'yee', 'u', 'maa', 'wyeoo'];
 let b2 = ['ayaye', 'uuuma', 'ye', 'yemawoo', 'ayaa'];
 
 console.log(solution(b1));
+
+export {};

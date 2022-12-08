@@ -6,3 +6,5 @@ function solution(sides: number[]) {
 }
 
 solution([111, 12, 1]);
+
+export {};

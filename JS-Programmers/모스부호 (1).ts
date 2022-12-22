@@ -1,6 +1,4 @@
-// @ts-nocheck
-
-const morse = {
+const morse: { [key in string]: string } = {
   '.-': 'a',
   '-...': 'b',
   '-.-.': 'c',
